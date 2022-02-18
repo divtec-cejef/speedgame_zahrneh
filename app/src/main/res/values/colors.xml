@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light theme -->
+    <color name="colorPrimary">#664081</color>
+    <color name="colorSecondary">#5D6C93</color>
+    <color name="colorSecondaryShadow">#519480</color>
+    <color name="colorTertiary">#702081</color>
+    <color name="colorTertiaryShadow">#88997A</color>
+    <color name="colorAccent">#624071</color>
+    <color name="textColorPrimary">#78FFF1</color>
+    <color name="textColorSecondary">#FFECF3</color>
+    <color name="colorBackGround">#171E37</color>>
+    <color name="textInputLayoutBorder">#662266</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
